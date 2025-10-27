@@ -11,7 +11,7 @@ import Dashboard from './pages/Owner/Dashboard'
 import AddCar from './pages/Owner/AddCar'
 import ManageCars from './pages/Owner/ManageCars'
 import ManageBookings from './pages/Owner/ManageBookings'
-import Login from './components/LOgin'
+import Login from './components/Login'
 
 const App = () => {
   const [showLogin, setShowLogin] = useState(false)
